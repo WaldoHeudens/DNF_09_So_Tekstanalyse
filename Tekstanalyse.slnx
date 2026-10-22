@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Tekstanalyse.Tests/Tekstanalyse.Tests.csproj" />
+  <Project Path="Tekstanalyse/Tekstanalyse.csproj" />
+</Solution>
